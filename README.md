@@ -1,4 +1,4 @@
-# Customer shopping behavior analytics
+# Customer shopping behavior analysis
 
 ## 📌 Project overview
 This is an end-to-end data analytics project that shows a complete workflow, from data preparation to interactive dashboarding. The project uses retail customer data to derive insights into customer behavior, loyalty, and purchase patterns, simulating a real-world business intelligence scenario.
